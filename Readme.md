@@ -7,5 +7,5 @@ A quick tool to purge all the EXIF metadata from your camera's phone. Useful for
 This application is intended for use on Andriod in [Termux](https://termux.com/)
 
 ## Dependencies
-	- [jhead](http://linux.die.net/man/1/jhead)
-	- [termux](https://termux.com/)
+- [jhead](http://linux.die.net/man/1/jhead)
+- [termux](https://termux.com/)
